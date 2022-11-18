@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FormUi</string>
+    <string name="secondName">Отчество</string>
+    <string name="progLangKnowledges">Знание языков программирования</string>
+    <string name="programmingExperience">Опыт программирования</string>
+    <string name="school">Школа</string>
+    <string name="city">Город</string>
+    <string name="surname">Фамилия</string>
+    <string name="year">Год</string>
+    <string name="name">Имя</string>
+</resources>
